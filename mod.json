@@ -1,0 +1,9 @@
+{
+  "Id": "SnapTurning",
+  "DisplayName": "Snap Turning",
+  "Author": "Ethan Fischer",
+  "Version": "1.22",
+  "Enable": true,
+  "Game": "Subnautica",
+  "AssemblyName": "SubnauticaSnapTurningMod.dll"
+}
